@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="my_package" type="image_pub_sub.py" name="read_video" output="screen">
+    </node>
+</launch>
